@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1717131039 source:d:\c c++\project\ass13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LOAD_STORE_FILE.h"
+	"BANKING.h"
+	<time.h>
+
+1714549972 d:\c c++\project\ass13\loadfile.h
+	<stdio.h>
+	<stdlib.h>
+
+1717657938 d:\c c++\project\ass13\banking.h
+	<stdio.h>
+	<stdlib.h>
+	"CHECK_EXIST_VALID.h"
+	"AVL.h"
+	"LOAD_STORE_FILE.h"
+	<time.h>
+
+1716981403 d:\c c++\project\ass13\check_exist_valid.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AVL.h"
+
+1717238841 d:\c c++\project\ass13\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CHECK_EXIST_VALID.h"
+
+1717126337 d:\c c++\project\ass13\load_store_file.h
+	<stdio.h>
+	<stdlib.h>
+	"BANKING.h"
+
